@@ -1,4 +1,13 @@
-# Python Programming Assignments Repository
+# Python Assignments
+
+
+<p align="center">
+  <br>
+  <img src="https://media0.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=ecf05e47ygnlc184cr4e7eqbds6upwodn8a45fh2po38p90y&rid=giphy.gif&ct=g"  width="1000" height="500"  />
+  <br>
+</p>
+
+
 
 This repository contains all the assignments related to Python programming to understand and practice all the concepts of the language. Each assignment is designed to help you learn and practice a specific concept of the language, and the assignments are arranged in increasing order of difficulty. You can use this repository to learn Python from scratch or to improve your existing skills.
 
